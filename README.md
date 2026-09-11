@@ -1,4 +1,4 @@
-<img width="1024" height="640" alt="Hotaru-Pic" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg />
+<img width="768" height="480" alt="Hotaru-Pic" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg />
 
 
 # 🙃 Hello, I'm DarktukZ.
