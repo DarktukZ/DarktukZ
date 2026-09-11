@@ -24,7 +24,7 @@ also created some stuff about math education tools and mental math answer keys o
 ---
 
 ## 🎯 Ongoing
-- **Otaku Kidlek** : have to solve any problem about Thai mental math problems.
+- **Otaku Kidlek** : have to solve any problem about Thai mental math.
 - **Mental Math's Book** : I want to have my own series of books about Thai mental math.
 
 ---
