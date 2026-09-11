@@ -1,4 +1,4 @@
-<img width="768" height="480" alt="Hotaru-Pic" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg />
+<img width="1024" height="640" alt="Hotaru-Pic" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg />
 
 
 # 🙃 Hello, I'm DarktukZ.
@@ -10,12 +10,30 @@ also created some stuff about math education tools and mental math answer keys o
 
 ## ☘️ Skills
 - **Languages** : Thai , English , Japanese (a little bit)
-- **Computer Languages** : C , C++ , JS , Typescript
+- **Computer Languages** : C , C++ , JS , Typescript , Python
+- **Framework** : Next.js , React.js
 - **Tools** : Visual Studio Code
 
 ---
 
+## 💿 Hobby
+- **Anime Lover**
+- **Always listen to JP music**
+- **Love to play game**
 
+---
+
+## 🎯 Ongoing
+- **Otaku Kidlek** : have to solve any problem about Thai mental math problems.
+- **Mental Math's Book** : I want to have my own series of books about Thai mental math.
+
+---
+## 📬 Contact Me
+ 
+- 📧 [Email](mailto:banktammatorn@gmail.com)
+- 🧑🏻‍💻[Otaku Kidlek](https://betaotakukidlek.netlify.app) (Not available for english version)
+
+---
 
 
 <!--
