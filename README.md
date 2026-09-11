@@ -1,6 +1,7 @@
 <!--<img width="768" height="480" alt="Hotaru-Pic" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg />-->
 
-#Hello , You can call me DarktukZ.🙃
+#Hello , You can call me DarktukZ.\
+---
 3rd-year student at **Chulalongkorn University**, majoring in **Mathematics Education (EDU68)**. \
 I'm **Otaku Kidlek Dev.** , a website about **Thai Mental Math** that similar to **Countdown Number Game**.\
 also created some stuff about math education tools and mental math answer keys or service.\
