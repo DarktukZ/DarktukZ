@@ -1,4 +1,4 @@
-<img width="768" height="480" alt="Hotaru-Picture" src= https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg/>
+<img width="768" height="480" alt="Hotaru-Picture" src=https://github.com/DarktukZ/DarktukZ/blob/main/IMG_5375.jpeg/>
 
 # Hello , You can call me DarktukZ.🙃
 3rd-year student at **Chulalongkorn University**, majoring in **Mathematics Education (EDU68)**. \
